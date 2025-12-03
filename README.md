@@ -29,25 +29,6 @@ A proposta é apresentar uma agência de viagens completa, com ofertas, destinos
 
 ---
 
-## 📂 Estrutura do Projeto
-
-/
-├── css/
-│ └── style.css
-├── img/
-│ ├── ícones
-│ ├── logos
-│ ├── destinos
-│ └── depoimentos
-├── fonts/
-├── index.html
-├── blog.html
-├── contato.html
-├── pacotes-de-viagens.html
-└── favicon.svg
-
----
-
 ## 🌐 Deploy
 
 🔗 **Acesse o site:**  
@@ -63,3 +44,4 @@ https://dani-dantas.github.io/jornada-viagens-site/
 - Navegação totalmente funcional sem JavaScript  
 - Conteúdo estruturado com semântica e acessibilidade  
 - Projeto 100% compatível com GitHub Pages
+
